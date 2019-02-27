@@ -1,0 +1,16 @@
+body{
+    background: #000;
+}
+h2{
+    color: #fff !important;
+}
+button{
+    padding: 12px;
+}
+.div-center{
+    margin: 100px auto;
+    width: 50%;
+    border: 1px solid #f9f9f9;
+    padding: 12px;
+    background: #f6f6f6;
+}
